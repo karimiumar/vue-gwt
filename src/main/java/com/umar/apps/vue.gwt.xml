@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='vueGwt'>
+    <inherits name='com.axellience.vuegwt.VueGWT'/>
+    <inherits name="com.google.gwt.core.Core"/>
+    <entry-point class='com.umar.apps.client.RootGwtApp' />
+    <source path='client' />
+</module>
