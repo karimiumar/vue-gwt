@@ -14,4 +14,4 @@ Once running, open browser and type. Check the port no.
 and IP address. It might change. 
 [http://192.168.42.231:8888/vueGwt/index.html]()
 
-***vueGwt*** is the module name as defined in vue.gwtxml
+***vueGwt*** is the module name as defined in vue.gwt.xml
